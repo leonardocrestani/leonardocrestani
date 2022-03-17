@@ -6,7 +6,7 @@
 - ⌨️ JavaScript (main)
 - ⌨️ Java
 - 🧮 Docker 
-- 📦 MySQL, MongoDB, MySQL
+- 📦 MySQL, MongoDB, PostgreSQL
 - 📄 Swagger
 
 <div>
