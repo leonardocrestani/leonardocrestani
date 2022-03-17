@@ -5,8 +5,9 @@
 #### Skills:
 - ⌨️ JavaScript (main)
 - ⌨️ Java
-- 🧮 Docker 
-- 📦 MySQL, MongoDB, PostgreSQL
+- 🧮 Docker
+- 🧫 Tests (Jest, Mocha, Cypress)
+- 🏮 MySQL, MongoDB, PostgreSQL
 - 📄 Swagger
 <br>
 
