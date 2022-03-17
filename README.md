@@ -1,3 +1,5 @@
+<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocrestani&layout=compact&langs_count=7&theme=default"/>
+
 #### About me:
 - 💻 Working at Compass.uol
 - 🎓 Computer Science at Universidade de Passo Fundo
@@ -11,10 +13,7 @@
 - 📄 Swagger
 <br>
 
-<div>
-<a href="https://github.com/leonardocrestani">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocrestani&layout=compact&langs_count=7&theme=default"/>
-</div>
+
   
 <!--
 **leonardocrestani/leonardocrestani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
