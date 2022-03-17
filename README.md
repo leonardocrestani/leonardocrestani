@@ -1,4 +1,4 @@
-<img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocrestani&layout=compact&langs_count=7&theme=default"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocrestani&layout=compact&langs_count=7&theme=default"/>
 
 #### About me:
 - 💻 Working at Compass.uol
