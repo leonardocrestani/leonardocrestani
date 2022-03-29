@@ -5,7 +5,7 @@
 - 🎓 Computer Science at Universidade de Passo Fundo
 
 #### Skills:
-- ⌨️ JavaScript(main), Java
+- ⌨️ JavaScript, Java
 - 🏮 MySQL, MongoDB, PostgreSQL
 - 🧮 Docker
 - 🧫 Tests (Jest, Mocha, Cypress)
